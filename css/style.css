@@ -15,6 +15,11 @@ body{
     place-content: center;
 }
 
+.wrapper{
+    max-width: 45em;
+    margin-inline: auto;
+}
+
 .card{
     width: 80%;
     margin: auto;
